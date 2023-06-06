@@ -1,0 +1,11 @@
+.section-clima-general{
+    width: 640px;
+}
+
+.section-viento{
+width: 640px;
+}
+
+.section-extras{
+    flex-direction: row;
+}

@@ -1,0 +1,50 @@
+.section-clima-general{
+    height: 220px;
+}
+
+.clima-country{
+    font-size: 40px;
+    padding-left: 25px;
+}
+
+.clima-country-container div{
+    display: flex;
+    justify-content: space-between; 
+    font-size: 16px;
+    padding-right: 20px;   
+}
+.clima-country-container div p {
+    margin: 0 8px;
+}
+.clima-temp{
+    font-size: 84px;
+    padding-right: 60px;
+}
+
+.clima-lluvia{
+    width: 180px;
+    height: 130px;    
+    padding-left: 60px;
+}
+
+.clima-sensacion{
+    font-size: 17px;
+    padding-right: 20px;
+}
+
+.clima-humedad{
+    font-size: 20px;
+    padding-left: 30px;
+    
+}
+
+.section-viento{
+    font-size: 25px;
+}
+.section-extras{
+padding-top: 30px;
+}
+.section-extras p{
+    
+    font-size:25px;
+}
